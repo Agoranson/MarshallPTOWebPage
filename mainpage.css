@@ -1,20 +1,86 @@
-body { 
-    background-color: blue; 
+
+body{ 
+    color: rgb(60, 60, 60);  
+    font-family: "AvertaPE", Arial, Helvetica, "Nimbus Sans L", sans-serif; 
 }
-
-
 .marshallheader 
 { 
  position: fixed; 
- color: yellow; 
- font-family: Georgia, 'Times New Roman', Times, serif;  
+ color: yellow;  
  text-align: left; 
- font-size: 5;
-}
-h3 { 
-
-}
-p { 
-
+ font-size: 130%;
+ font-weight: 500; 
+ padding-top: 2%;
+ padding-left: 2%; 
 }
 
+
+.openpage
+{  
+    background-color: blue; 
+    font-family: "AvertaPE", Arial, Helvetica, "Nimbus Sans L", sans-serif; 
+}
+
+#statement
+{ padding-left: 40%; 
+ position: relative; 
+ top: -80px ; 
+padding-right: 20%; 
+color: rgb(60, 60, 60); 
+ 
+}
+
+
+#openingPage
+{ 
+    top: -50000px; 
+}
+
+.upcomingevents 
+{ 
+    background-color: yellow; 
+}
+
+h3{ 
+    font-family: "AvertaPE", Arial, Helvetica, "Nimbus Sans L", sans-serif; 
+    font-size: 600%; 
+    font-weight: 1000;
+    padding-right: 75%; 
+    line-height: 80%; 
+    padding-top: 12%; 
+    padding-left: 10%;  
+}
+h2{
+    font-family: "AvertaPE", Arial, Helvetica, "Nimbus Sans L", sans-serif; 
+    font-size: 400%; 
+    font-weight: 1000; 
+    line-height: 80%; 
+    padding-top: 12%; 
+    padding-left: 10%; 
+}
+
+.event 
+{ 
+
+
+}
+
+
+div
+{ 
+ height: 95%
+}
+
+#link1
+{
+position: relative;
+padding-left: 500%; 
+top: -40px;  
+}
+
+#link2
+{ 
+    position: relative;
+    padding-left: 550%; 
+    top: -110px;
+}
